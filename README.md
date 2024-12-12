@@ -36,11 +36,17 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 
 Developed by: RegisterNumber:
 */
+![Screenshot 2024-12-12 080028](https://github.com/user-attachments/assets/22065c3a-7a33-412a-aa55-ce6112fb3563)
+
 
 **RTL LOGIC UP COUNTER**
+![Screenshot 2024-12-12 080254](https://github.com/user-attachments/assets/a62cb558-39e3-4786-8818-8e023f68c915)
 
 **TIMING DIAGRAM FOR IP COUNTER**
+![Screenshot 2024-12-12 080422](https://github.com/user-attachments/assets/cded2f92-206f-420a-9523-2b58712a15b4)
 
 **TRUTH TABLE**
+![Screenshot 2024-12-12 080507](https://github.com/user-attachments/assets/69ba0a8d-5a78-4301-8fce-67b4f104bc33)
 
 **RESULTS**
+Thus the program executed successfully.
